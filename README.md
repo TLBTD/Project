@@ -18,5 +18,5 @@ Light; Lighting Range, Angle Direction
 Shadows; Shadowing Casting, Intensity [Works In Visbility with Light]
 ## Ambient.js
 Ambient: ShadowBlur, Lightblur, Light Intensity, Shadowing Color, Lighting Color, Lighting Reflection
-# /3DEngine/FFMSIS [(More) Functions For Modify Shape.js In Script.js]
-Empty... (add everything you need For Your shape Like (Size[FromConnectionWithEngineShapes], Color[FromConnectionWithEngineFaceFil]...))
+# /3DEngine/FFMEIS [(More) Functions For Modify Engine.js In Script.js]
+Empty... (add everything you need For Your shape Like (Size[FromConnectionWithEngineShapes], Color[FromConnectionWithEngineFaceFil], or lighting functions just connect lighting functions or some carpet functions to this for replying the functions adaptable for anothers script.js))
